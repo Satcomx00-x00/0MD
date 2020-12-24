@@ -1,4 +1,4 @@
-# OMD-OS-raps
+# OMD-OS-rasp
 OMD (One More Day) OS base on raspberry pi, a Pi OS for better anonyn hack.<br>
 <br>
 CONF : <br>
