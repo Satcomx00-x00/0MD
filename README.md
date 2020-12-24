@@ -8,6 +8,7 @@ CONF : <br>
 ```Discord Bot Remote```<br>
 ```Auto mac changer```<br>
 ```Onion Share server```<br>
+```File encrypter```<br>
 <br>
 TOOLS:<br>
 
