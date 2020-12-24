@@ -3,6 +3,7 @@ OMD (One More Day) OS base on raspberry pi, a Pi OS for better anonyn hack.<br>
 <br>
 CONF : <br>
 ```LOGS auto delete each 3 mins: ssh, telnet, http...```<br>
+```Meta data auto cleaner```<br>
 ```Wifi Hijack ?```<br>
 ```Discord Bot Remote```<br>
 ```Auto mac changer```<br>
