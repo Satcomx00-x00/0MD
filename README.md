@@ -17,3 +17,17 @@ TOOLS:<br>
 ```IRC Server```<br>
 ```SQL Server (Mysql/Postgresql)```<br>
 ```nginx/apache2 server```<br>
+PACKETS: <br>
+```GParted```<br>
+```Inspircd```<br>
+```Irssi```<br>
+```Postgresql 11```<br>
+```Mysql```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
+``` ```<br>
