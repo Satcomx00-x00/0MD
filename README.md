@@ -30,8 +30,8 @@ PACKETS: <br>
 ```Bashtop```<br>
 ```Git```<br>
 ```Cron```<br>
-``` ```<br>
-``` ```<br>
+```Nmap```<br>
+```OpenSSL```<br>
 ``` ```<br>
 ``` ```<br>
 ``` ```<br>
