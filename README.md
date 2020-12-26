@@ -1,5 +1,5 @@
-# OMD-OS-rasp
-OMD (One More Day) OS base on raspberry pi, a Pi OS for better anonyn hack.<br>
+# 0MD
+OMD (One More Day) OS base on raspberry pi, a Pi OS for better anonym data & hack group managment.<br>
 <br>
 CONF : <br>
 ```LOGS auto delete each 3 mins: ssh, telnet, http...```<br>
