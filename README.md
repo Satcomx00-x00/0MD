@@ -33,7 +33,7 @@ PACKETS: <br>
 ```Nmap```<br>
 ```OpenSSL```<br>
 MENU : <br>
--[] ``` Utilities```<br>
--[ ] ``` RISKY Section```<br>
-- [] ``` Services Manager```<br>
-- [] ``` Services Manager```<br>
+- [ ] ``` Utilities```<br>
+- [ ] ``` RISKY Section```<br>
+- [ ] ``` Services Manager```<br>
+- [ ] ``` REPO Updater```<br>
