@@ -7,5 +7,5 @@ to decrypt:
 master@OMD$: openssl enc -aes-256-cbc -d -in test_file_crypted.dat -out test_file_decrypted.txt
 		"enter the strong password"
 or just for not file data:
-master@OMD$: echo "my botnet password" | openssl enc -aes-256-cbc
+master@OMD$: echo "my botnet password" | openssl enc -aes-256-cbc -d
                 "enter the strong password"
