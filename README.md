@@ -32,8 +32,9 @@ PACKETS: <br>
 ```Cron```<br>
 ```Nmap```<br>
 ```OpenSSL```<br>
+```Macchanger```<br>
 MISC : <br>
-- [ ] ``` .bashrc syntax modifs```<br>
+- [x] ``` .bashrc syntax modifs```<br>
 - [ ] ``` .bashrc Misc Commands (iptables commands template)```<br>
 - [ ] ``` .bashrc MOTD like with process running checker```<br>
 - [ ] ``` .help Pi managment informations (diskspace, users history connection with IP address)```<br>
