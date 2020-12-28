@@ -1,0 +1,8 @@
+use gpg to encrypt & decrypt files
+to encrypt:
+
+master@OMD$: gpg test_file.txt
+		"enter strong password"
+to decrypt:
+master@OMD$: gpg test_file.txt.gpg
+		"enter the strong password"

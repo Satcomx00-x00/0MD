@@ -1,0 +1,11 @@
+use gpg to encrypt & decrypt files
+to encrypt:
+
+master@OMD$: openssl enc -aes-256-cbc -in test_file.txt -out test_file_crypted.dat
+		"enter strong password"
+to decrypt:
+master@OMD$: openssl enc -aes-256-cbc -d -in test_file_crypted.dat -out test_file_decrypted.txt
+		"enter the strong password"
+or just for not file data:
+master@OMD$: echo "my botnet password" | openssl enc -aes-256-cbc
+                "enter the strong password"
