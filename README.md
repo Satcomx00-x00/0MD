@@ -32,6 +32,15 @@ PACKETS: <br>
 ```Cron```<br>
 ```Nmap```<br>
 ```OpenSSL```<br>
-``` ```<br>
-``` ```<br>
-``` ```<br>
+MISC : <br>
+- [ ] ``` .bashrc syntax modifs```<br>
+- [ ] ``` .bashrc Misc Commands (iptables commands template)```<br>
+- [ ] ``` .bashrc MOTD like with process running checker```<br>
+- [ ] ``` .help Pi managment informations (diskspace, users history connection with IP address)```<br>
+- [ ] ``` .help Fail2ban ssh with blacklist IP generator (fail2ban ssh 8 tries)```<br>
+MENU : <br>
+- [ ] ``` Utilities```<br>
+- [ ] ``` RISKY Section```<br>
+- [ ] ``` Services Manager```<br>
+- [ ] ``` REPO Updater```<br>
+- [ ] ``` IPTABLE Firewall pre config```<br>
