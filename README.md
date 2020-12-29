@@ -17,6 +17,8 @@ TOOLS:<br>
 ```IRC Server```<br>
 ```SQL Server (Mysql/Postgresql)```<br>
 ```nginx/apache2 server```<br>
+```Graphana```<br>
+
 PACKETS: <br>
 ```GParted```<br>
 ```Inspircd```<br>
@@ -39,6 +41,7 @@ MISC : <br>
 - [ ] ``` .bashrc MOTD like with process running checker```<br>
 - [ ] ``` .help Pi managment informations (diskspace, users history connection with IP address)```<br>
 - [ ] ``` .help Fail2ban ssh with blacklist IP generator (fail2ban ssh 8 tries)```<br>
+- [ ] ``` Graphana ressources monitoring```<br>
 MENU : <br>
 - [ ] ``` Utilities```<br>
 - [ ] ``` RISKY Section```<br>
